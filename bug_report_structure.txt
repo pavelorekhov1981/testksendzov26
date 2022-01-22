@@ -1,0 +1,12 @@
+1.ID
+2. Summary
+3. Incident description
+4. Pre-condition
+5. Steps (to repruduce)
+6. Actual result
+7. Expected result
+8. Environment
+9. Build
+10. Severity
+11. Priority
+12. Attachment
